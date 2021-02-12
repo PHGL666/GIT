@@ -76,3 +76,14 @@ git revert IDduCommit
 git reset --hard id
 git push --force
 
+git branch
+git branch nom
+git checkout nom
+git checkout -b nom
+
+# LES MERGES
+git checkout main
+git merge branche_à_rappatrier
+
+# SUPPRIMER BRANCHE
+git branch -d nom_branche
