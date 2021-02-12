@@ -92,3 +92,10 @@ git branch -d nom_branche
 # PULL une branche
 git pull origin nomdelabranche
 
+
+
+
+# FORK
+
+pour faire des pullrequest
+dans le repo cliquer sur pullrequest > new pull request > selectionner le repo sur lequel faire la pullrequest > create pull request
