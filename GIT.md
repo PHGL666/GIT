@@ -87,3 +87,8 @@ git merge branche_à_rappatrier
 
 # SUPPRIMER BRANCHE
 git branch -d nom_branche
+
+
+# PULL une branche
+git pull origin nomdelabranche
+
