@@ -99,3 +99,26 @@ git pull origin nomdelabranche
 
 pour faire des pullrequest
 dans le repo cliquer sur pullrequest > new pull request > selectionner le repo sur lequel faire la pullrequest > create pull request
+
+32768
+
+flutter framework création app native
+> app
+> web
+> interface
+langage dart (java et javascript)
++ framework de test
+
+
+docker container ps
+docker container os -a 
+
+
+-d = detachMode  d = true : la console est libre
+-p = --publish : redéfinir le port
+-P = --publish -all : redéfinir port random
+--link = fait le lien entre le hub et les Nodes !
+
+go sur le local host d'affichage pour voir les Node s'afficher
+
+mdp définit sur dockerhub = secret
